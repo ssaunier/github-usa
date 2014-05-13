@@ -6,6 +6,8 @@ require 'github'
 require 'yaml'
 require 'octokit'
 require 'thread/pool'
+require 'csv'
+require 'colorize'
 
 TOKENS = File.readlines(".tokens").map &:chomp
 
@@ -24,6 +26,20 @@ STATES.each_with_index do |state, i|
 end
 pool.shutdown
 
-File.open('data/github_users_per_state.yml', 'w') do |f|
-  f.write STATES.sort_by{ |s| s[:ratio] }.reverse.to_yaml
+
+def color(state)
+  state[:ratio] >= 0.5 ? :green : (state[:ratio] >= 0.1 ? :yellow : :red)
 end
+
+CSV.open("data/github_users_per_state.csv", "wb", write_headers: true, headers: ["Abbr", "State", "GitHub", "Population", "Dev per 1000 inhab."]) do |csv|
+  STATES.sort_by{ |s| s[:ratio] }.reverse.each_with_index do |state, index|
+    color = color(state)
+    index = (index + 1).to_s.rjust(3)
+    puts "#{index} [" + state[:name].colorize(color) + "] " + state[:ratio].to_s.colorize(color) +
+        " with #{state[:github]} GitHub users over #{state[:population]} inhabitants"
+
+    csv << [state[:abbr], state[:name], state[:github], state[:population], state[:ratio]]
+  end
+end
+
+puts "DELAWARE must be adjusted by hand as search bring 'Rio De Janeiro'"
