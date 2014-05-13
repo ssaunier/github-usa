@@ -13,7 +13,7 @@ def color(ratio)
 end
 
 def opacity(ratio)
-  Math.log(Math::E / 2 + ratio * (Math::E / 2) / $max_ratio)
+  Math.log(1 + ratio * (Math::E - 1) / $max_ratio)
 end
 
 features = []

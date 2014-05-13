@@ -51,7 +51,7 @@
         "Population": "6971406",
         "Dev per 1000 inhab.": "1.69",
         "fill": "#27ae60",
-        "fill-opacity": 0.6457088474165439
+        "fill-opacity": 0.5265340029273486
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -369,7 +369,7 @@
         "Population": "19651127",
         "Dev per 1000 inhab.": "1.31",
         "fill": "#27ae60",
-        "fill-opacity": 0.5789001777444336
+        "fill-opacity": 0.4299751858929308
       },
       "geometry": {
         "type": "Polygon",
@@ -661,7 +661,7 @@
         "Population": "6692824",
         "Dev per 1000 inhab.": "1.25",
         "fill": "#27ae60",
-        "fill-opacity": 0.5679311463738596
+        "fill-opacity": 0.4138392209055965
       },
       "geometry": {
         "type": "Polygon",
@@ -821,7 +821,7 @@
         "Population": "5268367",
         "Dev per 1000 inhab.": "1.14",
         "fill": "#27ae60",
-        "fill-opacity": 0.5475033236837614
+        "fill-opacity": 0.3835629210995606
       },
       "geometry": {
         "type": "Polygon",
@@ -905,7 +905,7 @@
         "Population": "38332521",
         "Dev per 1000 inhab.": "0.97",
         "fill": "#27ae60",
-        "fill-opacity": 0.5150886649994796
+        "fill-opacity": 0.3348912694475128
       },
       "geometry": {
         "type": "Polygon",
@@ -1297,7 +1297,7 @@
         "Population": "2900872",
         "Dev per 1000 inhab.": "0.91",
         "fill": "#27ae60",
-        "fill-opacity": 0.5033926252362882
+        "fill-opacity": 0.3171313494805363
       },
       "geometry": {
         "type": "Polygon",
@@ -1365,7 +1365,7 @@
         "Population": "626630",
         "Dev per 1000 inhab.": "0.77",
         "fill": "#27ae60",
-        "fill-opacity": 0.4755578262428443
+        "fill-opacity": 0.27442217399848307
       },
       "geometry": {
         "type": "Polygon",
@@ -1497,7 +1497,7 @@
         "Population": "1323459",
         "Dev per 1000 inhab.": "0.59",
         "fill": "#27ae60",
-        "fill-opacity": 0.4385926320093729
+        "fill-opacity": 0.21668575723160388
       },
       "geometry": {
         "type": "Polygon",
@@ -1629,7 +1629,7 @@
         "Population": "5420380",
         "Dev per 1000 inhab.": "0.57",
         "fill": "#27ae60",
-        "fill-opacity": 0.4343997537493369
+        "fill-opacity": 0.2100598868411056
       },
       "geometry": {
         "type": "Polygon",
@@ -1981,7 +1981,7 @@
         "Population": "8260405",
         "Dev per 1000 inhab.": "0.57",
         "fill": "#27ae60",
-        "fill-opacity": 0.4343997537493369
+        "fill-opacity": 0.2100598868411056
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2331,7 +2331,7 @@
         "Population": "1051511",
         "Dev per 1000 inhab.": "0.55",
         "fill": "#27ae60",
-        "fill-opacity": 0.4301892212129934
+        "fill-opacity": 0.20338982129805627
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2417,7 +2417,7 @@
         "Population": "2893957",
         "Dev per 1000 inhab.": "0.55",
         "fill": "#27ae60",
-        "fill-opacity": 0.4301892212129934
+        "fill-opacity": 0.20338982129805627
       },
       "geometry": {
         "type": "Polygon",
@@ -2489,7 +2489,7 @@
         "Population": "1015165",
         "Dev per 1000 inhab.": "0.49",
         "fill": "#e67e22",
-        "fill-opacity": 0.4174501954355636
+        "fill-opacity": 0.18310845791450098
       },
       "geometry": {
         "type": "Polygon",
@@ -2717,7 +2717,7 @@
         "Population": "9992167",
         "Dev per 1000 inhab.": "0.46",
         "fill": "#e67e22",
-        "fill-opacity": 0.4110193051052733
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "Polygon",
@@ -2941,7 +2941,7 @@
         "Population": "5928814",
         "Dev per 1000 inhab.": "0.46",
         "fill": "#e67e22",
-        "fill-opacity": 0.4110193051052733
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3223,7 +3223,7 @@
         "Population": "26448193",
         "Dev per 1000 inhab.": "0.46",
         "fill": "#e67e22",
-        "fill-opacity": 0.4110193051052733
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "Polygon",
@@ -3851,7 +3851,7 @@
         "Population": "6626624",
         "Dev per 1000 inhab.": "0.45",
         "fill": "#e67e22",
-        "fill-opacity": 0.4088664517441722
+        "fill-opacity": 0.1693553643886691
       },
       "geometry": {
         "type": "Polygon",
@@ -3999,7 +3999,7 @@
         "Population": "9848060",
         "Dev per 1000 inhab.": "0.44",
         "fill": "#e67e22",
-        "fill-opacity": 0.40670895360415094
+        "fill-opacity": 0.16588733211750875
       },
       "geometry": {
         "type": "Polygon",
@@ -4263,7 +4263,7 @@
         "Population": "3930065",
         "Dev per 1000 inhab.": "0.43",
         "fill": "#e67e22",
-        "fill-opacity": 0.40454679059965576
+        "fill-opacity": 0.162407230730292
       },
       "geometry": {
         "type": "Polygon",
@@ -4507,7 +4507,7 @@
         "Population": "4625470",
         "Dev per 1000 inhab.": "0.43",
         "fill": "#e67e22",
-        "fill-opacity": 0.40454679059965576
+        "fill-opacity": 0.162407230730292
       },
       "geometry": {
         "type": "Polygon",
@@ -4831,7 +4831,7 @@
         "Population": "1328302",
         "Dev per 1000 inhab.": "0.42",
         "fill": "#e67e22",
-        "fill-opacity": 0.4023799425145654
+        "fill-opacity": 0.15891497592999146
       },
       "geometry": {
         "type": "Polygon",
@@ -5115,7 +5115,7 @@
         "Population": "4774839",
         "Dev per 1000 inhab.": "0.41",
         "fill": "#e67e22",
-        "fill-opacity": 0.40020838900105765
+        "fill-opacity": 0.15541048253332185
       },
       "geometry": {
         "type": "Polygon",
@@ -5311,7 +5311,7 @@
         "Population": "5742713",
         "Dev per 1000 inhab.": "0.41",
         "fill": "#e67e22",
-        "fill-opacity": 0.40020838900105765
+        "fill-opacity": 0.15541048253332185
       },
       "geometry": {
         "type": "Polygon",
@@ -5631,7 +5631,7 @@
         "Population": "12773801",
         "Dev per 1000 inhab.": "0.4",
         "fill": "#e67e22",
-        "fill-opacity": 0.3980321095784621
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "Polygon",
@@ -5783,7 +5783,7 @@
         "Population": "1404054",
         "Dev per 1000 inhab.": "0.4",
         "fill": "#e67e22",
-        "fill-opacity": 0.3980321095784621
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6017,7 +6017,7 @@
         "Population": "1868516",
         "Dev per 1000 inhab.": "0.4",
         "fill": "#e67e22",
-        "fill-opacity": 0.3980321095784621
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "Polygon",
@@ -6153,7 +6153,7 @@
         "Population": "735132",
         "Dev per 1000 inhab.": "0.39",
         "fill": "#e67e22",
-        "fill-opacity": 0.39585108363210175
+        "fill-opacity": 0.14836443471142166
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10623,7 +10623,7 @@
         "Population": "3090416",
         "Dev per 1000 inhab.": "0.38",
         "fill": "#e67e22",
-        "fill-opacity": 0.3936652904121216
+        "fill-opacity": 0.1448227053750212
       },
       "geometry": {
         "type": "Polygon",
@@ -10843,7 +10843,7 @@
         "Population": "9895622",
         "Dev per 1000 inhab.": "0.38",
         "fill": "#e67e22",
-        "fill-opacity": 0.3936652904121216
+        "fill-opacity": 0.1448227053750212
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11485,7 +11485,7 @@
         "Population": "6495978",
         "Dev per 1000 inhab.": "0.37",
         "fill": "#e67e22",
-        "fill-opacity": 0.3914747090323029
+        "fill-opacity": 0.14126838759385854
       },
       "geometry": {
         "type": "Polygon",
@@ -11677,7 +11677,7 @@
         "Population": "2790136",
         "Dev per 1000 inhab.": "0.36",
         "fill": "#e67e22",
-        "fill-opacity": 0.3892793184688673
+        "fill-opacity": 0.13770139156187952
       },
       "geometry": {
         "type": "Polygon",
@@ -11781,7 +11781,7 @@
         "Population": "3596080",
         "Dev per 1000 inhab.": "0.35",
         "fill": "#e67e22",
-        "fill-opacity": 0.38707909755926484
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -11865,7 +11865,7 @@
         "Population": "11570808",
         "Dev per 1000 inhab.": "0.35",
         "fill": "#e67e22",
-        "fill-opacity": 0.38707909755926484
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12073,7 +12073,7 @@
         "Population": "6021988",
         "Dev per 1000 inhab.": "0.35",
         "fill": "#e67e22",
-        "fill-opacity": 0.38707909755926484
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12305,7 +12305,7 @@
         "Population": "18801310",
         "Dev per 1000 inhab.": "0.35",
         "fill": "#e67e22",
-        "fill-opacity": 0.38707909755926484
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12637,7 +12637,7 @@
         "Population": "8899339",
         "Dev per 1000 inhab.": "0.32",
         "fill": "#e67e22",
-        "fill-opacity": 0.38044923902059535
+        "fill-opacity": 0.12330479475590943
       },
       "geometry": {
         "type": "Polygon",
@@ -12785,7 +12785,7 @@
         "Population": "2085287",
         "Dev per 1000 inhab.": "0.3",
         "fill": "#e67e22",
-        "fill-opacity": 0.37600478726017117
+        "fill-opacity": 0.11602801967473098
       },
       "geometry": {
         "type": "Polygon",
@@ -12873,7 +12873,7 @@
         "Population": "3850568",
         "Dev per 1000 inhab.": "0.29",
         "fill": "#e67e22",
-        "fill-opacity": 0.3737751319329021
+        "fill-opacity": 0.11236967852486296
       },
       "geometry": {
         "type": "Polygon",
@@ -13073,7 +13073,7 @@
         "Population": "3725789",
         "Dev per 1000 inhab.": "0.25",
         "fill": "#e67e22",
-        "fill-opacity": 0.36480646195014155
+        "fill-opacity": 0.09760099218670582
       },
       "geometry": {
         "type": "Polygon",
@@ -13161,7 +13161,7 @@
         "Population": "4833722",
         "Dev per 1000 inhab.": "0.23",
         "fill": "#e67e22",
-        "fill-opacity": 0.360291781595615
+        "fill-opacity": 0.09013404265134092
       },
       "geometry": {
         "type": "Polygon",
@@ -13313,7 +13313,7 @@
         "Population": "4395295",
         "Dev per 1000 inhab.": "0.22",
         "fill": "#e67e22",
-        "fill-opacity": 0.35802677496476293
+        "fill-opacity": 0.08637955501510967
       },
       "geometry": {
         "type": "Polygon",
@@ -13633,7 +13633,7 @@
         "Population": "723393",
         "Dev per 1000 inhab.": "0.22",
         "fill": "#e67e22",
-        "fill-opacity": 0.35802677496476293
+        "fill-opacity": 0.08637955501510967
       },
       "geometry": {
         "type": "Polygon",
@@ -13717,7 +13717,7 @@
         "Population": "844877",
         "Dev per 1000 inhab.": "0.21",
         "fill": "#e67e22",
-        "fill-opacity": 0.3557566264302237
+        "fill-opacity": 0.08261091806134652
       },
       "geometry": {
         "type": "Polygon",
@@ -13853,7 +13853,7 @@
         "Population": "2959373",
         "Dev per 1000 inhab.": "0.17",
         "fill": "#e67e22",
-        "fill-opacity": 0.34662414286695126
+        "fill-opacity": 0.0673927176470542
       },
       "geometry": {
         "type": "Polygon",
@@ -14021,7 +14021,7 @@
         "Population": "2991207",
         "Dev per 1000 inhab.": "0.14",
         "fill": "#e67e22",
-        "fill-opacity": 0.33971962752040674
+        "fill-opacity": 0.05582513018190133
       },
       "geometry": {
         "type": "Polygon",
@@ -14225,7 +14225,7 @@
         "Population": "582658",
         "Dev per 1000 inhab.": "0.13",
         "fill": "#e67e22",
-        "fill-opacity": 0.3374074877620273
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14297,7 +14297,7 @@
         "Population": "1854304",
         "Dev per 1000 inhab.": "0.13",
         "fill": "#e67e22",
-        "fill-opacity": 0.3374074877620273
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14577,7 +14577,7 @@
         "Population": "925749",
         "Dev per 1000 inhab.": "0.13",
         "fill": "#e67e22",
-        "fill-opacity": 0.3374074877620273
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14649,7 +14649,7 @@
         "Population": "6570902",
         "Dev per 1000 inhab.": "0.11",
         "fill": "#e67e22",
-        "fill-opacity": 0.33276710820552496
+        "fill-opacity": 0.04412216612926073
       },
       "geometry": {
         "type": "Polygon",
@@ -14853,7 +14853,7 @@
         "Population": "11612136",
         "Dev per 1000 inhab.": "0.07",
         "fill": "#c0392b",
-        "fill-opacity": 0.3234212457872873
+        "fill-opacity": 0.028302070161902542
       },
       "geometry": {
         "type": "Polygon",
@@ -15137,7 +15137,7 @@
         "Population": "112882135",
         "Dev per 1000 inhab.": "0.05",
         "fill": "#c0392b",
-        "fill-opacity": 0.3187153547498747
+        "fill-opacity": 0.020297168152969253
       },
       "geometry": {
         "type": "Polygon",
