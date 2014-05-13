@@ -42,4 +42,5 @@ CSV.open("data/github_users_per_state.csv", "wb", write_headers: true, headers: 
   end
 end
 
-puts "DELAWARE must be adjusted by hand as search bring 'Rio De Janeiro'"
+puts "DE must be adjusted by hand as search brings 'Rio De Janeiro'"
+puts "PR must be adjusted by hand as search brings 'Curitiba, PR, Brazi'"
