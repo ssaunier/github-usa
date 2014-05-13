@@ -7,6 +7,7 @@ require 'json'
 require 'colorize'
 
 max_ratio = nil
+min_ratio = 0.01
 
 features = []
 
@@ -17,7 +18,8 @@ csv.each do |row|
   puts "Fetching #{abbr}"
   ratio = row["Dev per 1000 inhab."].to_f
   max_ratio = ratio if max_ratio.nil?
-  opacity = Math.log(Math::E * ratio / max_ratio)
+
+  opacity = Math.log(ratio * (Math::E - 1) / max_ratio + 1)
   begin
     features << Geo.new.geo_json(abbr, row_hash, opacity)
   rescue OpenURI::HTTPError => e

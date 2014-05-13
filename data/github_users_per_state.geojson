@@ -49,7 +49,7 @@
         "GitHub": "11798",
         "Population": "6971406",
         "Dev per 1000 inhab.": "1.69",
-        "fill-opacity": 0.09202779500093565
+        "fill-opacity": 0.5265340029273486
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -366,7 +366,7 @@
         "GitHub": "25714",
         "Population": "19651127",
         "Dev per 1000 inhab.": "1.31",
-        "fill-opacity": -0.16267359672098633
+        "fill-opacity": 0.4299751858929308
       },
       "geometry": {
         "type": "Polygon",
@@ -657,7 +657,7 @@
         "GitHub": "8365",
         "Population": "6692824",
         "Dev per 1000 inhab.": "1.25",
-        "fill-opacity": -0.20955718261983677
+        "fill-opacity": 0.4138392209055965
       },
       "geometry": {
         "type": "Polygon",
@@ -816,7 +816,7 @@
         "GitHub": "6015",
         "Population": "5268367",
         "Dev per 1000 inhab.": "1.14",
-        "fill-opacity": -0.30167247152764237
+        "fill-opacity": 0.3835629210995606
       },
       "geometry": {
         "type": "Polygon",
@@ -899,7 +899,7 @@
         "GitHub": "37265",
         "Population": "38332521",
         "Dev per 1000 inhab.": "0.97",
-        "fill-opacity": -0.463159941418755
+        "fill-opacity": 0.3348912694475128
       },
       "geometry": {
         "type": "Polygon",
@@ -1290,7 +1290,7 @@
         "GitHub": "2626",
         "Population": "2900872",
         "Dev per 1000 inhab.": "0.91",
-        "fill-opacity": -0.5270114134052878
+        "fill-opacity": 0.3171313494805363
       },
       "geometry": {
         "type": "Polygon",
@@ -1357,7 +1357,7 @@
         "GitHub": "480",
         "Population": "626630",
         "Dev per 1000 inhab.": "0.77",
-        "fill-opacity": -0.694065498068454
+        "fill-opacity": 0.27442217399848307
       },
       "geometry": {
         "type": "Polygon",
@@ -1488,7 +1488,7 @@
         "GitHub": "787",
         "Population": "1323459",
         "Dev per 1000 inhab.": "0.59",
-        "fill-opacity": -0.9603334760164184
+        "fill-opacity": 0.21668575723160388
       },
       "geometry": {
         "type": "Polygon",
@@ -1619,7 +1619,7 @@
         "GitHub": "3068",
         "Population": "5420380",
         "Dev per 1000 inhab.": "0.57",
-        "fill-opacity": -0.9948196520875877
+        "fill-opacity": 0.2100598868411056
       },
       "geometry": {
         "type": "Polygon",
@@ -1970,7 +1970,7 @@
         "GitHub": "4695",
         "Population": "8260405",
         "Dev per 1000 inhab.": "0.57",
-        "fill-opacity": -0.9948196520875877
+        "fill-opacity": 0.2100598868411056
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2319,7 +2319,7 @@
         "GitHub": "574",
         "Population": "1051511",
         "Dev per 1000 inhab.": "0.55",
-        "fill-opacity": -1.030537734689667
+        "fill-opacity": 0.20338982129805627
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2404,7 +2404,7 @@
         "GitHub": "1582",
         "Population": "2893957",
         "Dev per 1000 inhab.": "0.55",
-        "fill-opacity": -1.030537734689667
+        "fill-opacity": 0.20338982129805627
       },
       "geometry": {
         "type": "Polygon",
@@ -2475,7 +2475,7 @@
         "GitHub": "497",
         "Population": "1015165",
         "Dev per 1000 inhab.": "0.49",
-        "fill-opacity": -1.1460506218115114
+        "fill-opacity": 0.18310845791450098
       },
       "geometry": {
         "type": "Polygon",
@@ -2702,7 +2702,7 @@
         "GitHub": "4551",
         "Population": "9992167",
         "Dev per 1000 inhab.": "0.46",
-        "fill-opacity": -1.2092295234330428
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "Polygon",
@@ -2925,7 +2925,7 @@
         "GitHub": "2733",
         "Population": "5928814",
         "Dev per 1000 inhab.": "0.46",
-        "fill-opacity": -1.2092295234330428
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3206,7 +3206,7 @@
         "GitHub": "12049",
         "Population": "26448193",
         "Dev per 1000 inhab.": "0.46",
-        "fill-opacity": -1.2092295234330428
+        "fill-opacity": 0.1728114109667943
       },
       "geometry": {
         "type": "Polygon",
@@ -3833,7 +3833,7 @@
         "GitHub": "2973",
         "Population": "6626624",
         "Dev per 1000 inhab.": "0.45",
-        "fill-opacity": -1.231208430151818
+        "fill-opacity": 0.1693553643886691
       },
       "geometry": {
         "type": "Polygon",
@@ -3980,7 +3980,7 @@
         "GitHub": "4294",
         "Population": "9848060",
         "Dev per 1000 inhab.": "0.44",
-        "fill-opacity": -1.2536812860038766
+        "fill-opacity": 0.16588733211750875
       },
       "geometry": {
         "type": "Polygon",
@@ -4243,7 +4243,7 @@
         "GitHub": "1697",
         "Population": "3930065",
         "Dev per 1000 inhab.": "0.43",
-        "fill-opacity": -1.2766708042285755
+        "fill-opacity": 0.162407230730292
       },
       "geometry": {
         "type": "Polygon",
@@ -4486,7 +4486,7 @@
         "GitHub": "1966",
         "Population": "4625470",
         "Dev per 1000 inhab.": "0.43",
-        "fill-opacity": -1.2766708042285755
+        "fill-opacity": 0.162407230730292
       },
       "geometry": {
         "type": "Polygon",
@@ -4809,7 +4809,7 @@
         "GitHub": "559",
         "Population": "1328302",
         "Dev per 1000 inhab.": "0.42",
-        "fill-opacity": -1.3002013016387697
+        "fill-opacity": 0.15891497592999146
       },
       "geometry": {
         "type": "Polygon",
@@ -5092,7 +5092,7 @@
         "GitHub": "1962",
         "Population": "4774839",
         "Dev per 1000 inhab.": "0.41",
-        "fill-opacity": -1.3242988532178301
+        "fill-opacity": 0.15541048253332185
       },
       "geometry": {
         "type": "Polygon",
@@ -5287,7 +5287,7 @@
         "GitHub": "2362",
         "Population": "5742713",
         "Dev per 1000 inhab.": "0.41",
-        "fill-opacity": -1.3242988532178301
+        "fill-opacity": 0.15541048253332185
       },
       "geometry": {
         "type": "Polygon",
@@ -5606,7 +5606,7 @@
         "GitHub": "5152",
         "Population": "12773801",
         "Dev per 1000 inhab.": "0.4",
-        "fill-opacity": -1.3489914658082014
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "Polygon",
@@ -5757,7 +5757,7 @@
         "GitHub": "562",
         "Population": "1404054",
         "Dev per 1000 inhab.": "0.4",
-        "fill-opacity": -1.3489914658082014
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5990,7 +5990,7 @@
         "GitHub": "746",
         "Population": "1868516",
         "Dev per 1000 inhab.": "0.4",
-        "fill-opacity": -1.3489914658082014
+        "fill-opacity": 0.15189366445827285
       },
       "geometry": {
         "type": "Polygon",
@@ -6125,7 +6125,7 @@
         "GitHub": "288",
         "Population": "735132",
         "Dev per 1000 inhab.": "0.39",
-        "fill-opacity": -1.3743092737924913
+        "fill-opacity": 0.14836443471142166
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10594,7 +10594,7 @@
         "GitHub": "1175",
         "Population": "3090416",
         "Dev per 1000 inhab.": "0.38",
-        "fill-opacity": -1.400284760195752
+        "fill-opacity": 0.1448227053750212
       },
       "geometry": {
         "type": "Polygon",
@@ -10813,7 +10813,7 @@
         "GitHub": "3803",
         "Population": "9895622",
         "Dev per 1000 inhab.": "0.38",
-        "fill-opacity": -1.400284760195752
+        "fill-opacity": 0.1448227053750212
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11454,7 +11454,7 @@
         "GitHub": "2433",
         "Population": "6495978",
         "Dev per 1000 inhab.": "0.37",
-        "fill-opacity": -1.4269530072779135
+        "fill-opacity": 0.14126838759385854
       },
       "geometry": {
         "type": "Polygon",
@@ -11645,7 +11645,7 @@
         "GitHub": "1011",
         "Population": "2790136",
         "Dev per 1000 inhab.": "0.36",
-        "fill-opacity": -1.454351981466028
+        "fill-opacity": 0.13770139156187952
       },
       "geometry": {
         "type": "Polygon",
@@ -11748,7 +11748,7 @@
         "GitHub": "1251",
         "Population": "3596080",
         "Dev per 1000 inhab.": "0.35",
-        "fill-opacity": -1.4825228584327244
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -11831,7 +11831,7 @@
         "GitHub": "4107",
         "Population": "11570808",
         "Dev per 1000 inhab.": "0.35",
-        "fill-opacity": -1.4825228584327244
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12038,7 +12038,7 @@
         "GitHub": "2134",
         "Population": "6021988",
         "Dev per 1000 inhab.": "0.35",
-        "fill-opacity": -1.4825228584327244
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12269,7 +12269,7 @@
         "GitHub": "6525",
         "Population": "18801310",
         "Dev per 1000 inhab.": "0.35",
-        "fill-opacity": -1.4825228584327244
+        "fill-opacity": 0.1341216265085724
       },
       "geometry": {
         "type": "Polygon",
@@ -12600,7 +12600,7 @@
         "GitHub": "2869",
         "Population": "8899339",
         "Dev per 1000 inhab.": "0.32",
-        "fill-opacity": -1.572135017122411
+        "fill-opacity": 0.12330479475590943
       },
       "geometry": {
         "type": "Polygon",
@@ -12747,7 +12747,7 @@
         "GitHub": "619",
         "Population": "2085287",
         "Dev per 1000 inhab.": "0.3",
-        "fill-opacity": -1.6366735382599826
+        "fill-opacity": 0.11602801967473098
       },
       "geometry": {
         "type": "Polygon",
@@ -12834,7 +12834,7 @@
         "GitHub": "1113",
         "Population": "3850568",
         "Dev per 1000 inhab.": "0.29",
-        "fill-opacity": -1.670575089935664
+        "fill-opacity": 0.11236967852486296
       },
       "geometry": {
         "type": "Polygon",
@@ -13033,7 +13033,7 @@
         "GitHub": "946",
         "Population": "3725789",
         "Dev per 1000 inhab.": "0.25",
-        "fill-opacity": -1.8189950950539373
+        "fill-opacity": 0.09760099218670582
       },
       "geometry": {
         "type": "Polygon",
@@ -13120,7 +13120,7 @@
         "GitHub": "1092",
         "Population": "4833722",
         "Dev per 1000 inhab.": "0.23",
-        "fill-opacity": -1.9023767039929882
+        "fill-opacity": 0.09013404265134092
       },
       "geometry": {
         "type": "Polygon",
@@ -13271,7 +13271,7 @@
         "GitHub": "974",
         "Population": "4395295",
         "Dev per 1000 inhab.": "0.22",
-        "fill-opacity": -1.946828466563822
+        "fill-opacity": 0.08637955501510967
       },
       "geometry": {
         "type": "Polygon",
@@ -13590,7 +13590,7 @@
         "GitHub": "158",
         "Population": "723393",
         "Dev per 1000 inhab.": "0.22",
-        "fill-opacity": -1.946828466563822
+        "fill-opacity": 0.08637955501510967
       },
       "geometry": {
         "type": "Polygon",
@@ -13673,7 +13673,7 @@
         "GitHub": "177",
         "Population": "844877",
         "Dev per 1000 inhab.": "0.21",
-        "fill-opacity": -1.993348482198715
+        "fill-opacity": 0.08261091806134652
       },
       "geometry": {
         "type": "Polygon",
@@ -13808,7 +13808,7 @@
         "GitHub": "503",
         "Population": "2959373",
         "Dev per 1000 inhab.": "0.17",
-        "fill-opacity": -2.2046575758659217
+        "fill-opacity": 0.0673927176470542
       },
       "geometry": {
         "type": "Polygon",
@@ -13975,7 +13975,7 @@
         "GitHub": "428",
         "Population": "2991207",
         "Dev per 1000 inhab.": "0.14",
-        "fill-opacity": -2.3988135903068795
+        "fill-opacity": 0.05582513018190133
       },
       "geometry": {
         "type": "Polygon",
@@ -14178,7 +14178,7 @@
         "GitHub": "73",
         "Population": "582658",
         "Dev per 1000 inhab.": "0.13",
-        "fill-opacity": -2.472921562460601
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14249,7 +14249,7 @@
         "GitHub": "232",
         "Population": "1854304",
         "Dev per 1000 inhab.": "0.13",
-        "fill-opacity": -2.472921562460601
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14528,7 +14528,7 @@
         "GitHub": "120",
         "Population": "925749",
         "Dev per 1000 inhab.": "0.13",
-        "fill-opacity": -2.472921562460601
+        "fill-opacity": 0.05193934002616728
       },
       "geometry": {
         "type": "Polygon",
@@ -14599,7 +14599,7 @@
         "GitHub": "702",
         "Population": "6570902",
         "Dev per 1000 inhab.": "0.11",
-        "fill-opacity": -2.639975647123767
+        "fill-opacity": 0.04412216612926073
       },
       "geometry": {
         "type": "Polygon",
@@ -14802,7 +14802,7 @@
         "GitHub": "776",
         "Population": "11612136",
         "Dev per 1000 inhab.": "0.07",
-        "fill-opacity": -3.0919607708668244
+        "fill-opacity": 0.028302070161902542
       },
       "geometry": {
         "type": "Polygon",
@@ -15085,7 +15085,7 @@
         "GitHub": "6121",
         "Population": "112882135",
         "Dev per 1000 inhab.": "0.05",
-        "fill-opacity": -3.4284330074880374
+        "fill-opacity": 0.020297168152969253
       },
       "geometry": {
         "type": "Polygon",
